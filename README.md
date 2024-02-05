@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ### Hi there 👋
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://github-readme-stats.vercel.app/api?username=maennenajere&show_icons=true&theme=tokyonight&show_owner=true&count_private=true")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maennenajere&show_icons=true&theme=tokyonight)
 
 </div>
