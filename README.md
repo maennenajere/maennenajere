@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+### Hi
 
 <!--
 Here are some ideas to get you started:
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maennenajere&show_icons=true&theme=tokyonight)
 
-[![An image of @maennenajere's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maennenajere)](https://holopin.io/@maennenajere)
 
 
 </div>
